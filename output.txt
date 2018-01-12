@@ -1,0 +1,1129 @@
+Vertex 0
+ [outgoing] 2 adjacencies: (159, 46) (238, 41)
+ [incoming] 2 adjacencies: (238, 41) (159, 46)
+Vertex 1
+ [outgoing] 2 adjacencies: (12, 36) (235, 44)
+ [incoming] 2 adjacencies: (12, 36) (235, 44)
+Vertex 10
+ [outgoing] 2 adjacencies: (108, 36) (277, 42)
+ [incoming] 2 adjacencies: (277, 42) (108, 36)
+Vertex 100
+ [outgoing] 3 adjacencies: (207, 113) (321, 59) (99, -1)
+ [incoming] 3 adjacencies: (99, -1) (207, 113) (321, 59)
+Vertex 101
+ [outgoing] 2 adjacencies: (209, 36) (293, 43)
+ [incoming] 2 adjacencies: (209, 36) (293, 43)
+Vertex 102
+ [outgoing] 2 adjacencies: (130, 37) (252, 35)
+ [incoming] 2 adjacencies: (252, 35) (130, 37)
+Vertex 103
+ [outgoing] 2 adjacencies: (327, 44) (367, 30)
+ [incoming] 2 adjacencies: (327, 44) (367, 30)
+Vertex 104
+ [outgoing] 2 adjacencies: (271, 40) (199, 62)
+ [incoming] 2 adjacencies: (199, 62) (271, 40)
+Vertex 105
+ [outgoing] 2 adjacencies: (163, 47) (296, 42)
+ [incoming] 2 adjacencies: (296, 42) (163, 47)
+Vertex 106
+ [outgoing] 2 adjacencies: (206, 36) (231, 29)
+ [incoming] 2 adjacencies: (231, 29) (206, 36)
+Vertex 107
+ [outgoing] 2 adjacencies: (335, 49) (314, 49)
+ [incoming] 2 adjacencies: (335, 49) (314, 49)
+Vertex 108
+ [outgoing] 2 adjacencies: (10, 36) (152, 29)
+ [incoming] 2 adjacencies: (10, 36) (152, 29)
+Vertex 109
+ [outgoing] 3 adjacencies: (50, 62) (110, -1) (127, 59)
+ [incoming] 3 adjacencies: (127, 59) (50, 62) (110, -1)
+Vertex 11
+ [outgoing] 2 adjacencies: (54, 41) (154, 32)
+ [incoming] 2 adjacencies: (154, 32) (54, 41)
+Vertex 110
+ [outgoing] 3 adjacencies: (332, 37) (109, -1) (2, 69)
+ [incoming] 3 adjacencies: (332, 37) (109, -1) (2, 69)
+Vertex 111
+ [outgoing] 2 adjacencies: (76, 30) (35, 34)
+ [incoming] 2 adjacencies: (35, 34) (76, 30)
+Vertex 112
+ [outgoing] 1 adjacencies: (180, 71)
+ [incoming] 1 adjacencies: (180, 71)
+Vertex 113
+ [outgoing] 2 adjacencies: (207, 47) (234, 36)
+ [incoming] 2 adjacencies: (207, 47) (234, 36)
+Vertex 114
+ [outgoing] 1 adjacencies: (263, 72)
+ [incoming] 1 adjacencies: (263, 72)
+Vertex 115
+ [outgoing] 3 adjacencies: (285, 70) (263, 39) (116, -1)
+ [incoming] 3 adjacencies: (263, 39) (116, -1) (285, 70)
+Vertex 116
+ [outgoing] 2 adjacencies: (233, 50) (115, -1)
+ [incoming] 2 adjacencies: (233, 50) (115, -1)
+Vertex 117
+ [outgoing] 2 adjacencies: (118, -1) (148, 59)
+ [incoming] 2 adjacencies: (148, 59) (118, -1)
+Vertex 118
+ [outgoing] 3 adjacencies: (329, 60) (288, 30) (117, -1)
+ [incoming] 3 adjacencies: (288, 30) (329, 60) (117, -1)
+Vertex 119
+ [outgoing] 3 adjacencies: (120, -1) (295, 41) (16, 98)
+ [incoming] 3 adjacencies: (120, -1) (295, 41) (16, 98)
+Vertex 12
+ [outgoing] 2 adjacencies: (213, 42) (1, 36)
+ [incoming] 2 adjacencies: (1, 36) (213, 42)
+Vertex 120
+ [outgoing] 3 adjacencies: (22, 81) (119, -1) (69, 287)
+ [incoming] 3 adjacencies: (119, -1) (22, 81) (69, 287)
+Vertex 121
+ [outgoing] 4 adjacencies: (122, -1) (124, 67) (65, 57) (123, -1)
+ [incoming] 4 adjacencies: (122, -1) (123, -1) (124, 67) (65, 57)
+Vertex 122
+ [outgoing] 4 adjacencies: (140, 103) (125, 59) (121, -1) (123, -1)
+ [incoming] 4 adjacencies: (140, 103) (123, -1) (125, 59) (121, -1)
+Vertex 123
+ [outgoing] 4 adjacencies: (250, 51) (122, -1) (121, -1) (63, 44)
+ [incoming] 4 adjacencies: (122, -1) (250, 51) (63, 44) (121, -1)
+Vertex 124
+ [outgoing] 3 adjacencies: (14, 46) (121, 67) (125, -1)
+ [incoming] 3 adjacencies: (14, 46) (121, 67) (125, -1)
+Vertex 125
+ [outgoing] 3 adjacencies: (122, 59) (124, -1) (340, 107)
+ [incoming] 3 adjacencies: (122, 59) (340, 107) (124, -1)
+Vertex 126
+ [outgoing] 2 adjacencies: (272, 37) (182, 42)
+ [incoming] 2 adjacencies: (272, 37) (182, 42)
+Vertex 127
+ [outgoing] 2 adjacencies: (55, 60) (109, 59)
+ [incoming] 2 adjacencies: (55, 60) (109, 59)
+Vertex 128
+ [outgoing] 2 adjacencies: (83, 49) (324, 42)
+ [incoming] 2 adjacencies: (324, 42) (83, 49)
+Vertex 129
+ [outgoing] 2 adjacencies: (20, 48) (311, 49)
+ [incoming] 2 adjacencies: (311, 49) (20, 48)
+Vertex 13
+ [outgoing] 3 adjacencies: (151, 57) (14, -1) (5, 67)
+ [incoming] 3 adjacencies: (151, 57) (5, 67) (14, -1)
+Vertex 130
+ [outgoing] 1 adjacencies: (102, 37)
+ [incoming] 1 adjacencies: (102, 37)
+Vertex 131
+ [outgoing] 2 adjacencies: (153, 72) (272, 63)
+ [incoming] 2 adjacencies: (272, 63) (153, 72)
+Vertex 132
+ [outgoing] 3 adjacencies: (223, 68) (327, 40) (133, -1)
+ [incoming] 3 adjacencies: (223, 68) (327, 40) (133, -1)
+Vertex 133
+ [outgoing] 3 adjacencies: (60, 45) (317, 49) (132, -1)
+ [incoming] 3 adjacencies: (60, 45) (132, -1) (317, 49)
+Vertex 134
+ [outgoing] 2 adjacencies: (374, 53) (270, 47)
+ [incoming] 2 adjacencies: (374, 53) (270, 47)
+Vertex 135
+ [outgoing] 3 adjacencies: (67, 87) (331, 65) (136, -1)
+ [incoming] 3 adjacencies: (331, 65) (67, 87) (136, -1)
+Vertex 136
+ [outgoing] 3 adjacencies: (68, 85) (135, -1) (290, 73)
+ [incoming] 3 adjacencies: (68, 85) (290, 73) (135, -1)
+Vertex 137
+ [outgoing] 3 adjacencies: (359, 54) (138, -1) (51, 62)
+ [incoming] 3 adjacencies: (138, -1) (51, 62) (359, 54)
+Vertex 138
+ [outgoing] 3 adjacencies: (137, -1) (79, 71) (158, 57)
+ [incoming] 3 adjacencies: (137, -1) (79, 71) (158, 57)
+Vertex 139
+ [outgoing] 2 adjacencies: (355, 46) (2, 50)
+ [incoming] 2 adjacencies: (2, 50) (355, 46)
+Vertex 14
+ [outgoing] 3 adjacencies: (13, -1) (64, 28) (124, 46)
+ [incoming] 3 adjacencies: (64, 28) (13, -1) (124, 46)
+Vertex 140
+ [outgoing] 2 adjacencies: (313, 47) (122, 103)
+ [incoming] 2 adjacencies: (122, 103) (313, 47)
+Vertex 141
+ [outgoing] 2 adjacencies: (197, 49) (291, 37)
+ [incoming] 2 adjacencies: (291, 37) (197, 49)
+Vertex 142
+ [outgoing] 4 adjacencies: (75, 93) (144, -1) (143, -1) (339, 27)
+ [incoming] 4 adjacencies: (339, 27) (75, 93) (143, -1) (144, -1)
+Vertex 143
+ [outgoing] 4 adjacencies: (160, 44) (142, -1) (340, 29) (144, -1)
+ [incoming] 4 adjacencies: (142, -1) (144, -1) (340, 29) (160, 44)
+Vertex 144
+ [outgoing] 4 adjacencies: (143, -1) (142, -1) (31, 36) (170, 46)
+ [incoming] 4 adjacencies: (170, 46) (142, -1) (143, -1) (31, 36)
+Vertex 145
+ [outgoing] 2 adjacencies: (373, 55) (54, 51)
+ [incoming] 2 adjacencies: (201, 46) (54, 51)
+Vertex 146
+ [outgoing] 2 adjacencies: (247, 50) (283, 33)
+ [incoming] 2 adjacencies: (283, 33) (247, 50)
+Vertex 147
+ [outgoing] 2 adjacencies: (191, 49) (159, 44)
+ [incoming] 2 adjacencies: (191, 49) (159, 44)
+Vertex 148
+ [outgoing] 3 adjacencies: (149, -1) (117, 59) (47, 46)
+ [incoming] 3 adjacencies: (47, 46) (117, 59) (149, -1)
+Vertex 149
+ [outgoing] 3 adjacencies: (345, 79) (148, -1) (241, 57)
+ [incoming] 3 adjacencies: (241, 57) (148, -1) (345, 79)
+Vertex 15
+ [outgoing] 2 adjacencies: (318, 37) (319, 73)
+ [incoming] 2 adjacencies: (319, 73) (318, 37)
+Vertex 150
+ [outgoing] 2 adjacencies: (57, 35) (30, 44)
+ [incoming] 2 adjacencies: (30, 44) (57, 35)
+Vertex 151
+ [outgoing] 2 adjacencies: (339, 93) (13, 57)
+ [incoming] 2 adjacencies: (339, 93) (13, 57)
+Vertex 152
+ [outgoing] 1 adjacencies: (108, 29)
+ [incoming] 1 adjacencies: (108, 29)
+Vertex 153
+ [outgoing] 3 adjacencies: (245, 64) (131, 72) (39, 38)
+ [incoming] 3 adjacencies: (39, 38) (131, 72) (245, 64)
+Vertex 154
+ [outgoing] 4 adjacencies: (11, 32) (156, -1) (155, -1) (349, 33)
+ [incoming] 4 adjacencies: (156, -1) (11, 32) (349, 33) (155, -1)
+Vertex 155
+ [outgoing] 4 adjacencies: (98, 69) (45, 35) (156, -1) (154, -1)
+ [incoming] 4 adjacencies: (98, 69) (45, 35) (156, -1) (154, -1)
+Vertex 156
+ [outgoing] 4 adjacencies: (371, 46) (155, -1) (154, -1) (76, 59)
+ [incoming] 4 adjacencies: (154, -1) (155, -1) (371, 46) (76, 59)
+Vertex 157
+ [outgoing] 2 adjacencies: (291, 49) (306, 36)
+ [incoming] 2 adjacencies: (291, 49) (306, 36)
+Vertex 158
+ [outgoing] 2 adjacencies: (371, 66) (138, 57)
+ [incoming] 2 adjacencies: (371, 66) (138, 57)
+Vertex 159
+ [outgoing] 2 adjacencies: (0, 46) (147, 44)
+ [incoming] 2 adjacencies: (147, 44) (0, 46)
+Vertex 16
+ [outgoing] 4 adjacencies: (18, -1) (331, 62) (119, 98) (17, -1)
+ [incoming] 4 adjacencies: (18, -1) (331, 62) (119, 98) (17, -1)
+Vertex 160
+ [outgoing] 2 adjacencies: (226, 40) (143, 44)
+ [incoming] 2 adjacencies: (226, 40) (143, 44)
+Vertex 161
+ [outgoing] 2 adjacencies: (184, 39) (364, 28)
+ [incoming] 2 adjacencies: (364, 28) (184, 39)
+Vertex 162
+ [outgoing] 2 adjacencies: (44, 54) (59, 53)
+ [incoming] 2 adjacencies: (59, 53) (44, 54)
+Vertex 163
+ [outgoing] 2 adjacencies: (105, 47) (18, 32)
+ [incoming] 2 adjacencies: (18, 32) (105, 47)
+Vertex 164
+ [outgoing] 2 adjacencies: (244, 60) (49, 42)
+ [incoming] 2 adjacencies: (49, 42) (244, 60)
+Vertex 165
+ [outgoing] 2 adjacencies: (70, 66) (375, 33)
+ [incoming] 2 adjacencies: (375, 33) (70, 66)
+Vertex 166
+ [outgoing] 2 adjacencies: (258, 38) (252, 37)
+ [incoming] 2 adjacencies: (258, 38) (252, 37)
+Vertex 167
+ [outgoing] 2 adjacencies: (53, 33) (265, 31)
+ [incoming] 2 adjacencies: (53, 33) (265, 31)
+Vertex 168
+ [outgoing] 2 adjacencies: (326, 49) (245, 28)
+ [incoming] 2 adjacencies: (245, 28) (326, 49)
+Vertex 169
+ [outgoing] 3 adjacencies: (63, 57) (341, 54) (170, -1)
+ [incoming] 3 adjacencies: (341, 54) (63, 57) (170, -1)
+Vertex 17
+ [outgoing] 4 adjacencies: (18, -1) (288, 89) (16, -1) (40, 41)
+ [incoming] 4 adjacencies: (16, -1) (40, 41) (18, -1) (288, 89)
+Vertex 170
+ [outgoing] 2 adjacencies: (169, -1) (144, 46)
+ [incoming] 2 adjacencies: (169, -1) (144, 46)
+Vertex 171
+ [outgoing] 2 adjacencies: (4, 43) (264, 49)
+ [incoming] 2 adjacencies: (264, 49) (4, 43)
+Vertex 172
+ [outgoing] 2 adjacencies: (240, 35) (35, 40)
+ [incoming] 2 adjacencies: (35, 40) (240, 35)
+Vertex 173
+ [outgoing] 2 adjacencies: (67, 51) (227, 34)
+ [incoming] 2 adjacencies: (227, 34) (67, 51)
+Vertex 174
+ [outgoing] 2 adjacencies: (346, 72) (221, 31)
+ [incoming] 2 adjacencies: (346, 72) (221, 31)
+Vertex 175
+ [outgoing] 4 adjacencies: (177, -1) (325, 144) (78, 41) (176, -1)
+ [incoming] 4 adjacencies: (325, 144) (177, -1) (78, 41) (176, -1)
+Vertex 176
+ [outgoing] 3 adjacencies: (177, -1) (281, 71) (175, -1)
+ [incoming] 3 adjacencies: (177, -1) (175, -1) (281, 71)
+Vertex 177
+ [outgoing] 4 adjacencies: (175, -1) (79, 41) (225, 88) (176, -1)
+ [incoming] 4 adjacencies: (175, -1) (79, 41) (225, 88) (176, -1)
+Vertex 178
+ [outgoing] 1 adjacencies: (81, 43)
+ [incoming] 1 adjacencies: (81, 43)
+Vertex 179
+ [outgoing] 1 adjacencies: (237, 37)
+ [incoming] 1 adjacencies: (237, 37)
+Vertex 18
+ [outgoing] 4 adjacencies: (17, -1) (163, 32) (16, -1) (61, 56)
+ [incoming] 4 adjacencies: (17, -1) (61, 56) (16, -1) (163, 32)
+Vertex 180
+ [outgoing] 2 adjacencies: (267, 91) (112, 71)
+ [incoming] 2 adjacencies: (112, 71) (267, 91)
+Vertex 181
+ [outgoing] 1 adjacencies: (88, 44)
+ [incoming] 1 adjacencies: (88, 44)
+Vertex 182
+ [outgoing] 2 adjacencies: (48, 66) (126, 42)
+ [incoming] 2 adjacencies: (48, 66) (126, 42)
+Vertex 183
+ [outgoing] 1 adjacencies: (278, 51)
+ [incoming] 1 adjacencies: (278, 51)
+Vertex 184
+ [outgoing] 3 adjacencies: (161, 39) (260, 31) (352, 36)
+ [incoming] 3 adjacencies: (352, 36) (260, 31) (161, 39)
+Vertex 185
+ [outgoing] 2 adjacencies: (186, 26) (91, 27)
+ [incoming] 2 adjacencies: (186, 26) (91, 27)
+Vertex 186
+ [outgoing] 2 adjacencies: (185, 26) (372, 33)
+ [incoming] 2 adjacencies: (185, 26) (372, 33)
+Vertex 187
+ [outgoing] 2 adjacencies: (188, 34) (273, 46)
+ [incoming] 2 adjacencies: (273, 46) (188, 34)
+Vertex 188
+ [outgoing] 2 adjacencies: (187, 34) (72, 52)
+ [incoming] 2 adjacencies: (72, 52) (187, 34)
+Vertex 189
+ [outgoing] 2 adjacencies: (367, 49) (370, 35)
+ [incoming] 2 adjacencies: (367, 49) (370, 35)
+Vertex 19
+ [outgoing] 2 adjacencies: (93, 33) (236, 31)
+ [incoming] 2 adjacencies: (93, 33) (236, 31)
+Vertex 190
+ [outgoing] 2 adjacencies: (42, 42) (269, 27)
+ [incoming] 2 adjacencies: (269, 27) (42, 42)
+Vertex 191
+ [outgoing] 3 adjacencies: (147, 49) (194, 67) (192, -1)
+ [incoming] 3 adjacencies: (192, -1) (194, 67) (147, 49)
+Vertex 192
+ [outgoing] 3 adjacencies: (337, 36) (64, 57) (191, -1)
+ [incoming] 3 adjacencies: (337, 36) (64, 57) (191, -1)
+Vertex 193
+ [outgoing] 2 adjacencies: (25, 42) (271, 38)
+ [incoming] 2 adjacencies: (25, 42) (271, 38)
+Vertex 194
+ [outgoing] 2 adjacencies: (276, 67) (191, 67)
+ [incoming] 2 adjacencies: (276, 67) (191, 67)
+Vertex 195
+ [outgoing] 2 adjacencies: (74, 44) (47, 41)
+ [incoming] 2 adjacencies: (47, 41) (74, 44)
+Vertex 196
+ [outgoing] 2 adjacencies: (197, -1) (259, 47)
+ [incoming] 2 adjacencies: (197, -1) (373, 37)
+Vertex 197
+ [outgoing] 3 adjacencies: (196, -1) (199, 28) (141, 49)
+ [incoming] 3 adjacencies: (199, 28) (196, -1) (141, 49)
+Vertex 198
+ [outgoing] 2 adjacencies: (199, -1) (52, 42)
+ [incoming] 3 adjacencies: (199, -1) (259, 47) (36, 105)
+Vertex 199
+ [outgoing] 3 adjacencies: (198, -1) (104, 62) (197, 28)
+ [incoming] 3 adjacencies: (104, 62) (198, -1) (197, 28)
+Vertex 2
+ [outgoing] 2 adjacencies: (110, 69) (139, 50)
+ [incoming] 2 adjacencies: (139, 50) (110, 69)
+Vertex 20
+ [outgoing] 3 adjacencies: (129, 48) (283, 38) (21, -1)
+ [incoming] 3 adjacencies: (21, -1) (283, 38) (129, 48)
+Vertex 200
+ [outgoing] 2 adjacencies: (257, 51) (94, 27)
+ [incoming] 2 adjacencies: (94, 27) (257, 51)
+Vertex 201
+ [outgoing] 1 adjacencies: (145, 46)
+ [incoming] 1 adjacencies: (52, 20)
+Vertex 202
+ [outgoing] 3 adjacencies: (203, -1) (326, 112) (51, 69)
+ [incoming] 3 adjacencies: (51, 69) (326, 112) (203, -1)
+Vertex 203
+ [outgoing] 3 adjacencies: (332, 40) (317, 53) (202, -1)
+ [incoming] 3 adjacencies: (332, 40) (202, -1) (317, 53)
+Vertex 204
+ [outgoing] 2 adjacencies: (366, 51) (85, 47)
+ [incoming] 2 adjacencies: (366, 51) (85, 47)
+Vertex 205
+ [outgoing] 2 adjacencies: (296, 38) (94, 39)
+ [incoming] 2 adjacencies: (296, 38) (94, 39)
+Vertex 206
+ [outgoing] 5 adjacencies: (208, -1) (106, 36) (207, -1) (209, -1) (218, 45)
+ [incoming] 5 adjacencies: (209, -1) (106, 36) (208, -1) (218, 45) (207, -1)
+Vertex 207
+ [outgoing] 5 adjacencies: (209, -1) (113, 47) (206, -1) (208, -1) (100, 113)
+ [incoming] 5 adjacencies: (209, -1) (206, -1) (100, 113) (113, 47) (208, -1)
+Vertex 208
+ [outgoing] 5 adjacencies: (206, -1) (333, 48) (361, 42) (209, -1) (207, -1)
+ [incoming] 5 adjacencies: (361, 42) (209, -1) (207, -1) (333, 48) (206, -1)
+Vertex 209
+ [outgoing] 5 adjacencies: (206, -1) (101, 36) (207, -1) (232, 54) (208, -1)
+ [incoming] 5 adjacencies: (101, 36) (208, -1) (232, 54) (206, -1) (207, -1)
+Vertex 21
+ [outgoing] 3 adjacencies: (20, -1) (75, 51) (86, 46)
+ [incoming] 3 adjacencies: (75, 51) (86, 46) (20, -1)
+Vertex 210
+ [outgoing] 2 adjacencies: (3, 41) (95, 48)
+ [incoming] 2 adjacencies: (95, 48) (3, 41)
+Vertex 211
+ [outgoing] 2 adjacencies: (284, 49) (86, 37)
+ [incoming] 2 adjacencies: (86, 37) (284, 49)
+Vertex 212
+ [outgoing] 5 adjacencies: (275, 86) (295, 64) (214, -1) (213, -1) (215, -1)
+ [incoming] 5 adjacencies: (214, -1) (215, -1) (275, 86) (295, 64) (213, -1)
+Vertex 213
+ [outgoing] 4 adjacencies: (215, -1) (12, 42) (214, -1) (212, -1)
+ [incoming] 4 adjacencies: (214, -1) (12, 42) (212, -1) (215, -1)
+Vertex 214
+ [outgoing] 4 adjacencies: (213, -1) (236, 42) (215, -1) (212, -1)
+ [incoming] 4 adjacencies: (215, -1) (236, 42) (213, -1) (212, -1)
+Vertex 215
+ [outgoing] 5 adjacencies: (42, 35) (212, -1) (214, -1) (307, 60) (213, -1)
+ [incoming] 5 adjacencies: (42, 35) (307, 60) (212, -1) (214, -1) (213, -1)
+Vertex 216
+ [outgoing] 2 adjacencies: (243, 55) (62, 48)
+ [incoming] 2 adjacencies: (62, 48) (243, 55)
+Vertex 217
+ [outgoing] 2 adjacencies: (353, 29) (322, 37)
+ [incoming] 2 adjacencies: (322, 37) (353, 29)
+Vertex 218
+ [outgoing] 2 adjacencies: (206, 45) (294, 38)
+ [incoming] 2 adjacencies: (206, 45) (294, 38)
+Vertex 219
+ [outgoing] 3 adjacencies: (313, 81) (220, -1) (297, 50)
+ [incoming] 3 adjacencies: (220, -1) (313, 81) (297, 50)
+Vertex 22
+ [outgoing] 3 adjacencies: (84, 39) (120, 81) (23, -1)
+ [incoming] 3 adjacencies: (84, 39) (120, 81) (23, -1)
+Vertex 220
+ [outgoing] 3 adjacencies: (219, -1) (316, 35) (315, 80)
+ [incoming] 3 adjacencies: (315, 80) (316, 35) (219, -1)
+Vertex 221
+ [outgoing] 3 adjacencies: (74, 52) (222, -1) (174, 31)
+ [incoming] 3 adjacencies: (222, -1) (174, 31) (74, 52)
+Vertex 222
+ [outgoing] 3 adjacencies: (330, 31) (221, -1) (323, 42)
+ [incoming] 3 adjacencies: (323, 42) (330, 31) (221, -1)
+Vertex 223
+ [outgoing] 4 adjacencies: (224, -1) (225, -1) (289, 43) (132, 68)
+ [incoming] 4 adjacencies: (289, 43) (225, -1) (224, -1) (132, 68)
+Vertex 224
+ [outgoing] 4 adjacencies: (59, 72) (225, -1) (282, 80) (223, -1)
+ [incoming] 4 adjacencies: (282, 80) (223, -1) (225, -1) (59, 72)
+Vertex 225
+ [outgoing] 4 adjacencies: (223, -1) (224, -1) (298, 75) (177, 88)
+ [incoming] 4 adjacencies: (177, 88) (224, -1) (223, -1) (298, 75)
+Vertex 226
+ [outgoing] 2 adjacencies: (160, 40) (270, 39)
+ [incoming] 2 adjacencies: (160, 40) (270, 39)
+Vertex 227
+ [outgoing] 3 adjacencies: (356, 38) (228, -1) (173, 34)
+ [incoming] 3 adjacencies: (228, -1) (173, 34) (356, 38)
+Vertex 228
+ [outgoing] 3 adjacencies: (282, 49) (255, 53) (227, -1)
+ [incoming] 3 adjacencies: (227, -1) (282, 49) (255, 53)
+Vertex 229
+ [outgoing] 2 adjacencies: (312, 64) (305, 43)
+ [incoming] 2 adjacencies: (305, 43) (312, 64)
+Vertex 23
+ [outgoing] 3 adjacencies: (287, 57) (97, 35) (22, -1)
+ [incoming] 3 adjacencies: (97, 35) (22, -1) (287, 57)
+Vertex 230
+ [outgoing] 2 adjacencies: (354, 62) (26, 64)
+ [incoming] 2 adjacencies: (26, 64) (354, 62)
+Vertex 231
+ [outgoing] 3 adjacencies: (106, 29) (368, 40) (232, -1)
+ [incoming] 3 adjacencies: (106, 29) (232, -1) (368, 40)
+Vertex 232
+ [outgoing] 3 adjacencies: (231, -1) (209, 54) (348, 46)
+ [incoming] 3 adjacencies: (348, 46) (231, -1) (209, 54)
+Vertex 233
+ [outgoing] 2 adjacencies: (320, 33) (116, 50)
+ [incoming] 2 adjacencies: (116, 50) (320, 33)
+Vertex 234
+ [outgoing] 2 adjacencies: (113, 36) (249, 38)
+ [incoming] 2 adjacencies: (113, 36) (249, 38)
+Vertex 235
+ [outgoing] 2 adjacencies: (284, 44) (1, 44)
+ [incoming] 2 adjacencies: (1, 44) (284, 44)
+Vertex 236
+ [outgoing] 2 adjacencies: (19, 31) (214, 42)
+ [incoming] 2 adjacencies: (214, 42) (19, 31)
+Vertex 237
+ [outgoing] 2 adjacencies: (261, 37) (179, 37)
+ [incoming] 2 adjacencies: (179, 37) (261, 37)
+Vertex 238
+ [outgoing] 3 adjacencies: (239, -1) (322, 27) (0, 41)
+ [incoming] 3 adjacencies: (239, -1) (0, 41) (322, 27)
+Vertex 239
+ [outgoing] 3 adjacencies: (5, 54) (27, 64) (238, -1)
+ [incoming] 3 adjacencies: (5, 54) (27, 64) (238, -1)
+Vertex 24
+ [outgoing] 1 adjacencies: (84, 51)
+ [incoming] 1 adjacencies: (84, 51)
+Vertex 240
+ [outgoing] 1 adjacencies: (172, 35)
+ [incoming] 1 adjacencies: (172, 35)
+Vertex 241
+ [outgoing] 2 adjacencies: (149, 57) (49, 40)
+ [incoming] 2 adjacencies: (49, 40) (149, 57)
+Vertex 242
+ [outgoing] 3 adjacencies: (244, -1) (46, 63) (243, -1)
+ [incoming] 3 adjacencies: (244, -1) (243, -1) (46, 63)
+Vertex 243
+ [outgoing] 4 adjacencies: (83, 36) (244, -1) (242, -1) (216, 55)
+ [incoming] 4 adjacencies: (216, 55) (242, -1) (83, 36) (244, -1)
+Vertex 244
+ [outgoing] 4 adjacencies: (243, -1) (164, 60) (352, 37) (242, -1)
+ [incoming] 4 adjacencies: (352, 37) (242, -1) (164, 60) (243, -1)
+Vertex 245
+ [outgoing] 3 adjacencies: (153, 64) (246, -1) (168, 28)
+ [incoming] 3 adjacencies: (168, 28) (246, -1) (153, 64)
+Vertex 246
+ [outgoing] 3 adjacencies: (302, 37) (245, -1) (27, 59)
+ [incoming] 3 adjacencies: (27, 59) (245, -1) (302, 37)
+Vertex 247
+ [outgoing] 3 adjacencies: (248, -1) (357, 23) (146, 50)
+ [incoming] 3 adjacencies: (248, -1) (357, 23) (146, 50)
+Vertex 248
+ [outgoing] 2 adjacencies: (247, -1) (280, 57)
+ [incoming] 2 adjacencies: (34, 36) (247, -1)
+Vertex 249
+ [outgoing] 2 adjacencies: (234, 38) (273, 35)
+ [incoming] 2 adjacencies: (234, 38) (273, 35)
+Vertex 25
+ [outgoing] 2 adjacencies: (253, 35) (193, 42)
+ [incoming] 2 adjacencies: (253, 35) (193, 42)
+Vertex 250
+ [outgoing] 2 adjacencies: (123, 51) (44, 64)
+ [incoming] 2 adjacencies: (123, 51) (44, 64)
+Vertex 251
+ [outgoing] 1 adjacencies: (4, 35)
+ [incoming] 1 adjacencies: (4, 35)
+Vertex 252
+ [outgoing] 2 adjacencies: (166, 37) (102, 35)
+ [incoming] 2 adjacencies: (166, 37) (102, 35)
+Vertex 253
+ [outgoing] 1 adjacencies: (25, 35)
+ [incoming] 1 adjacencies: (25, 35)
+Vertex 254
+ [outgoing] 2 adjacencies: (71, 73) (345, 75)
+ [incoming] 2 adjacencies: (345, 75) (71, 73)
+Vertex 255
+ [outgoing] 2 adjacencies: (228, 53) (71, 37)
+ [incoming] 2 adjacencies: (228, 53) (71, 37)
+Vertex 256
+ [outgoing] 1 adjacencies: (362, 37)
+ [incoming] 1 adjacencies: (362, 37)
+Vertex 257
+ [outgoing] 2 adjacencies: (200, 51) (265, 26)
+ [incoming] 2 adjacencies: (265, 26) (200, 51)
+Vertex 258
+ [outgoing] 2 adjacencies: (6, 46) (166, 38)
+ [incoming] 2 adjacencies: (6, 46) (166, 38)
+Vertex 259
+ [outgoing] 2 adjacencies: (198, 47) (36, 84)
+ [incoming] 1 adjacencies: (196, 47)
+Vertex 26
+ [outgoing] 2 adjacencies: (98, 31) (230, 64)
+ [incoming] 2 adjacencies: (230, 64) (98, 31)
+Vertex 260
+ [outgoing] 2 adjacencies: (184, 31) (266, 37)
+ [incoming] 2 adjacencies: (184, 31) (266, 37)
+Vertex 261
+ [outgoing] 2 adjacencies: (237, 37) (266, 46)
+ [incoming] 2 adjacencies: (237, 37) (266, 46)
+Vertex 262
+ [outgoing] 1 adjacencies: (3, 33)
+ [incoming] 1 adjacencies: (3, 33)
+Vertex 263
+ [outgoing] 2 adjacencies: (115, 39) (114, 72)
+ [incoming] 2 adjacencies: (114, 72) (115, 39)
+Vertex 264
+ [outgoing] 2 adjacencies: (286, 41) (171, 49)
+ [incoming] 2 adjacencies: (286, 41) (171, 49)
+Vertex 265
+ [outgoing] 2 adjacencies: (257, 26) (167, 31)
+ [incoming] 2 adjacencies: (167, 31) (257, 26)
+Vertex 266
+ [outgoing] 2 adjacencies: (260, 37) (261, 46)
+ [incoming] 2 adjacencies: (260, 37) (261, 46)
+Vertex 267
+ [outgoing] 2 adjacencies: (39, 46) (180, 91)
+ [incoming] 2 adjacencies: (39, 46) (180, 91)
+Vertex 268
+ [outgoing] 1 adjacencies: (337, 39)
+ [incoming] 1 adjacencies: (337, 39)
+Vertex 269
+ [outgoing] 2 adjacencies: (190, 27) (301, 35)
+ [incoming] 2 adjacencies: (301, 35) (190, 27)
+Vertex 27
+ [outgoing] 2 adjacencies: (239, 64) (246, 59)
+ [incoming] 2 adjacencies: (239, 64) (246, 59)
+Vertex 270
+ [outgoing] 2 adjacencies: (226, 39) (134, 47)
+ [incoming] 2 adjacencies: (134, 47) (226, 39)
+Vertex 271
+ [outgoing] 2 adjacencies: (193, 38) (104, 40)
+ [incoming] 2 adjacencies: (104, 40) (193, 38)
+Vertex 272
+ [outgoing] 2 adjacencies: (131, 63) (126, 37)
+ [incoming] 2 adjacencies: (126, 37) (131, 63)
+Vertex 273
+ [outgoing] 2 adjacencies: (187, 46) (249, 35)
+ [incoming] 2 adjacencies: (187, 46) (249, 35)
+Vertex 274
+ [outgoing] 2 adjacencies: (80, 41) (81, 43)
+ [incoming] 2 adjacencies: (81, 43) (80, 41)
+Vertex 275
+ [outgoing] 2 adjacencies: (328, 41) (212, 86)
+ [incoming] 2 adjacencies: (212, 86) (328, 41)
+Vertex 276
+ [outgoing] 1 adjacencies: (194, 67)
+ [incoming] 1 adjacencies: (194, 67)
+Vertex 277
+ [outgoing] 2 adjacencies: (82, 47) (10, 42)
+ [incoming] 2 adjacencies: (82, 47) (10, 42)
+Vertex 278
+ [outgoing] 3 adjacencies: (357, 59) (279, -1) (183, 51)
+ [incoming] 3 adjacencies: (357, 59) (279, -1) (183, 51)
+Vertex 279
+ [outgoing] 2 adjacencies: (278, -1) (320, 37)
+ [incoming] 2 adjacencies: (320, 37) (278, -1)
+Vertex 28
+ [outgoing] 1 adjacencies: (29, 79)
+ [incoming] 1 adjacencies: (29, 79)
+Vertex 280
+ [outgoing] 1 adjacencies: (92, 43)
+ [incoming] 1 adjacencies: (248, 57)
+Vertex 281
+ [outgoing] 3 adjacencies: (176, 71) (69, 131) (282, -1)
+ [incoming] 3 adjacencies: (282, -1) (176, 71) (69, 131)
+Vertex 282
+ [outgoing] 3 adjacencies: (228, 49) (281, -1) (224, 80)
+ [incoming] 3 adjacencies: (281, -1) (228, 49) (224, 80)
+Vertex 283
+ [outgoing] 2 adjacencies: (20, 38) (146, 33)
+ [incoming] 2 adjacencies: (20, 38) (146, 33)
+Vertex 284
+ [outgoing] 3 adjacencies: (211, 49) (285, -1) (235, 44)
+ [incoming] 3 adjacencies: (235, 44) (285, -1) (211, 49)
+Vertex 285
+ [outgoing] 3 adjacencies: (284, -1) (305, 61) (115, 70)
+ [incoming] 3 adjacencies: (284, -1) (115, 70) (305, 61)
+Vertex 286
+ [outgoing] 2 adjacencies: (370, 35) (264, 41)
+ [incoming] 2 adjacencies: (370, 35) (264, 41)
+Vertex 287
+ [outgoing] 2 adjacencies: (23, 57) (62, 53)
+ [incoming] 2 adjacencies: (23, 57) (62, 53)
+Vertex 288
+ [outgoing] 2 adjacencies: (118, 30) (17, 89)
+ [incoming] 2 adjacencies: (118, 30) (17, 89)
+Vertex 289
+ [outgoing] 2 adjacencies: (223, 43) (38, 38)
+ [incoming] 2 adjacencies: (38, 38) (223, 43)
+Vertex 29
+ [outgoing] 2 adjacencies: (28, 79) (374, 46)
+ [incoming] 2 adjacencies: (28, 79) (374, 46)
+Vertex 290
+ [outgoing] 2 adjacencies: (136, 73) (7, 39)
+ [incoming] 2 adjacencies: (7, 39) (136, 73)
+Vertex 291
+ [outgoing] 2 adjacencies: (141, 37) (157, 49)
+ [incoming] 2 adjacencies: (141, 37) (157, 49)
+Vertex 292
+ [outgoing] 3 adjacencies: (361, 38) (95, 37) (293, -1)
+ [incoming] 3 adjacencies: (293, -1) (361, 38) (95, 37)
+Vertex 293
+ [outgoing] 3 adjacencies: (292, -1) (101, 43) (96, 42)
+ [incoming] 3 adjacencies: (96, 42) (292, -1) (101, 43)
+Vertex 294
+ [outgoing] 2 adjacencies: (347, 46) (218, 38)
+ [incoming] 2 adjacencies: (347, 46) (218, 38)
+Vertex 295
+ [outgoing] 3 adjacencies: (296, -1) (119, 41) (212, 64)
+ [incoming] 3 adjacencies: (212, 64) (119, 41) (296, -1)
+Vertex 296
+ [outgoing] 3 adjacencies: (205, 38) (295, -1) (105, 42)
+ [incoming] 3 adjacencies: (105, 42) (205, 38) (295, -1)
+Vertex 297
+ [outgoing] 2 adjacencies: (219, 50) (40, 37)
+ [incoming] 2 adjacencies: (219, 50) (40, 37)
+Vertex 298
+ [outgoing] 3 adjacencies: (303, 46) (299, -1) (225, 75)
+ [incoming] 3 adjacencies: (303, 46) (225, 75) (299, -1)
+Vertex 299
+ [outgoing] 3 adjacencies: (304, 48) (298, -1) (60, 63)
+ [incoming] 3 adjacencies: (298, -1) (60, 63) (304, 48)
+Vertex 3
+ [outgoing] 2 adjacencies: (262, 33) (210, 41)
+ [incoming] 2 adjacencies: (210, 41) (262, 33)
+Vertex 30
+ [outgoing] 2 adjacencies: (354, 24) (150, 44)
+ [incoming] 2 adjacencies: (354, 24) (150, 44)
+Vertex 300
+ [outgoing] 2 adjacencies: (87, 43) (341, 46)
+ [incoming] 2 adjacencies: (87, 43) (341, 46)
+Vertex 301
+ [outgoing] 2 adjacencies: (269, 35) (88, 47)
+ [incoming] 2 adjacencies: (269, 35) (88, 47)
+Vertex 302
+ [outgoing] 2 adjacencies: (246, 37) (366, 53)
+ [incoming] 2 adjacencies: (366, 53) (246, 37)
+Vertex 303
+ [outgoing] 3 adjacencies: (32, 41) (298, 46) (304, -1)
+ [incoming] 3 adjacencies: (298, 46) (304, -1) (32, 41)
+Vertex 304
+ [outgoing] 3 adjacencies: (33, 41) (299, 48) (303, -1)
+ [incoming] 3 adjacencies: (299, 48) (33, 41) (303, -1)
+Vertex 305
+ [outgoing] 2 adjacencies: (229, 43) (285, 61)
+ [incoming] 2 adjacencies: (285, 61) (229, 43)
+Vertex 306
+ [outgoing] 2 adjacencies: (355, 33) (157, 36)
+ [incoming] 2 adjacencies: (355, 33) (157, 36)
+Vertex 307
+ [outgoing] 2 adjacencies: (215, 60) (58, 31)
+ [incoming] 2 adjacencies: (215, 60) (58, 31)
+Vertex 308
+ [outgoing] 2 adjacencies: (347, 29) (338, 33)
+ [incoming] 2 adjacencies: (338, 33) (347, 29)
+Vertex 309
+ [outgoing] 3 adjacencies: (8, 58) (310, -1) (336, 65)
+ [incoming] 3 adjacencies: (8, 58) (310, -1) (336, 65)
+Vertex 31
+ [outgoing] 2 adjacencies: (41, 28) (144, 36)
+ [incoming] 2 adjacencies: (41, 28) (144, 36)
+Vertex 310
+ [outgoing] 3 adjacencies: (342, 67) (375, 28) (309, -1)
+ [incoming] 3 adjacencies: (342, 67) (375, 28) (309, -1)
+Vertex 311
+ [outgoing] 6 adjacencies: (315, -1) (129, 49) (313, -1) (7, 79) (314, -1) (312, -1)
+ [incoming] 6 adjacencies: (313, -1) (315, -1) (314, -1) (7, 79) (312, -1) (129, 49)
+Vertex 312
+ [outgoing] 6 adjacencies: (229, 64) (350, 37) (314, -1) (313, -1) (315, -1) (311, -1)
+ [incoming] 6 adjacencies: (314, -1) (313, -1) (311, -1) (315, -1) (229, 64) (350, 37)
+Vertex 313
+ [outgoing] 6 adjacencies: (315, -1) (314, -1) (140, 47) (311, -1) (219, 81) (312, -1)
+ [incoming] 6 adjacencies: (312, -1) (314, -1) (311, -1) (140, 47) (219, 81) (315, -1)
+Vertex 314
+ [outgoing] 6 adjacencies: (107, 49) (315, -1) (343, 98) (312, -1) (311, -1) (313, -1)
+ [incoming] 6 adjacencies: (313, -1) (315, -1) (311, -1) (312, -1) (343, 98) (107, 49)
+Vertex 315
+ [outgoing] 6 adjacencies: (313, -1) (312, -1) (344, 107) (220, 80) (311, -1) (314, -1)
+ [incoming] 6 adjacencies: (311, -1) (314, -1) (344, 107) (220, 80) (312, -1) (313, -1)
+Vertex 316
+ [outgoing] 2 adjacencies: (220, 35) (369, 27)
+ [incoming] 2 adjacencies: (220, 35) (369, 27)
+Vertex 317
+ [outgoing] 2 adjacencies: (133, 49) (203, 53)
+ [incoming] 2 adjacencies: (203, 53) (133, 49)
+Vertex 318
+ [outgoing] 2 adjacencies: (48, 60) (15, 37)
+ [incoming] 2 adjacencies: (15, 37) (48, 60)
+Vertex 319
+ [outgoing] 1 adjacencies: (15, 73)
+ [incoming] 1 adjacencies: (15, 73)
+Vertex 32
+ [outgoing] 3 adjacencies: (303, 41) (343, 54) (33, -1)
+ [incoming] 3 adjacencies: (343, 54) (33, -1) (303, 41)
+Vertex 320
+ [outgoing] 2 adjacencies: (279, 37) (233, 33)
+ [incoming] 2 adjacencies: (233, 33) (279, 37)
+Vertex 321
+ [outgoing] 2 adjacencies: (100, 59) (359, 23)
+ [incoming] 2 adjacencies: (359, 23) (100, 59)
+Vertex 322
+ [outgoing] 2 adjacencies: (238, 27) (217, 37)
+ [incoming] 2 adjacencies: (238, 27) (217, 37)
+Vertex 323
+ [outgoing] 2 adjacencies: (334, 47) (222, 42)
+ [incoming] 2 adjacencies: (334, 47) (222, 42)
+Vertex 324
+ [outgoing] 2 adjacencies: (128, 42) (96, 52)
+ [incoming] 2 adjacencies: (128, 42) (96, 52)
+Vertex 325
+ [outgoing] 4 adjacencies: (326, -1) (175, 144) (353, 69) (327, -1)
+ [incoming] 4 adjacencies: (326, -1) (175, 144) (353, 69) (327, -1)
+Vertex 326
+ [outgoing] 4 adjacencies: (325, -1) (202, 112) (327, -1) (168, 49)
+ [incoming] 4 adjacencies: (325, -1) (168, 49) (327, -1) (202, 112)
+Vertex 327
+ [outgoing] 4 adjacencies: (132, 40) (325, -1) (326, -1) (103, 44)
+ [incoming] 4 adjacencies: (325, -1) (132, 40) (326, -1) (103, 44)
+Vertex 328
+ [outgoing] 2 adjacencies: (43, 57) (275, 41)
+ [incoming] 2 adjacencies: (275, 41) (43, 57)
+Vertex 329
+ [outgoing] 2 adjacencies: (46, 46) (118, 60)
+ [incoming] 2 adjacencies: (118, 60) (46, 46)
+Vertex 33
+ [outgoing] 3 adjacencies: (32, -1) (304, 41) (344, 52)
+ [incoming] 3 adjacencies: (304, 41) (32, -1) (344, 52)
+Vertex 330
+ [outgoing] 2 adjacencies: (73, 46) (222, 31)
+ [incoming] 2 adjacencies: (222, 31) (73, 46)
+Vertex 331
+ [outgoing] 2 adjacencies: (135, 65) (16, 62)
+ [incoming] 2 adjacencies: (16, 62) (135, 65)
+Vertex 332
+ [outgoing] 2 adjacencies: (110, 37) (203, 40)
+ [incoming] 2 adjacencies: (110, 37) (203, 40)
+Vertex 333
+ [outgoing] 2 adjacencies: (334, 32) (208, 48)
+ [incoming] 2 adjacencies: (334, 32) (208, 48)
+Vertex 334
+ [outgoing] 2 adjacencies: (323, 47) (333, 32)
+ [incoming] 2 adjacencies: (323, 47) (333, 32)
+Vertex 335
+ [outgoing] 2 adjacencies: (61, 28) (107, 49)
+ [incoming] 2 adjacencies: (107, 49) (61, 28)
+Vertex 336
+ [outgoing] 2 adjacencies: (309, 65) (38, 35)
+ [incoming] 2 adjacencies: (38, 35) (309, 65)
+Vertex 337
+ [outgoing] 2 adjacencies: (268, 39) (192, 36)
+ [incoming] 2 adjacencies: (192, 36) (268, 39)
+Vertex 338
+ [outgoing] 2 adjacencies: (308, 33) (9, 28)
+ [incoming] 2 adjacencies: (308, 33) (9, 28)
+Vertex 339
+ [outgoing] 4 adjacencies: (341, -1) (340, -1) (151, 93) (142, 27)
+ [incoming] 4 adjacencies: (142, 27) (341, -1) (151, 93) (340, -1)
+Vertex 34
+ [outgoing] 2 adjacencies: (41, 57) (248, 36)
+ [incoming] 2 adjacencies: (41, 57) (92, 37)
+Vertex 340
+ [outgoing] 4 adjacencies: (339, -1) (143, 29) (341, -1) (125, 107)
+ [incoming] 4 adjacencies: (341, -1) (125, 107) (143, 29) (339, -1)
+Vertex 341
+ [outgoing] 4 adjacencies: (169, 54) (339, -1) (340, -1) (300, 46)
+ [incoming] 4 adjacencies: (339, -1) (340, -1) (300, 46) (169, 54)
+Vertex 342
+ [outgoing] 4 adjacencies: (65, 41) (343, -1) (310, 67) (344, -1)
+ [incoming] 4 adjacencies: (310, 67) (65, 41) (343, -1) (344, -1)
+Vertex 343
+ [outgoing] 4 adjacencies: (342, -1) (314, 98) (32, 54) (344, -1)
+ [incoming] 4 adjacencies: (342, -1) (32, 54) (314, 98) (344, -1)
+Vertex 344
+ [outgoing] 4 adjacencies: (342, -1) (315, 107) (343, -1) (33, 52)
+ [incoming] 4 adjacencies: (343, -1) (342, -1) (315, 107) (33, 52)
+Vertex 345
+ [outgoing] 2 adjacencies: (254, 75) (149, 79)
+ [incoming] 2 adjacencies: (254, 75) (149, 79)
+Vertex 346
+ [outgoing] 3 adjacencies: (347, -1) (358, 33) (174, 72)
+ [incoming] 3 adjacencies: (174, 72) (347, -1) (358, 33)
+Vertex 347
+ [outgoing] 3 adjacencies: (308, 29) (294, 46) (346, -1)
+ [incoming] 3 adjacencies: (294, 46) (308, 29) (346, -1)
+Vertex 348
+ [outgoing] 2 adjacencies: (45, 43) (232, 46)
+ [incoming] 2 adjacencies: (232, 46) (45, 43)
+Vertex 349
+ [outgoing] 2 adjacencies: (154, 33) (99, 54)
+ [incoming] 2 adjacencies: (99, 54) (154, 33)
+Vertex 35
+ [outgoing] 2 adjacencies: (111, 34) (172, 40)
+ [incoming] 2 adjacencies: (111, 34) (172, 40)
+Vertex 350
+ [outgoing] 2 adjacencies: (312, 37) (8, 38)
+ [incoming] 2 adjacencies: (312, 37) (8, 38)
+Vertex 351
+ [outgoing] 2 adjacencies: (85, 46) (56, 59)
+ [incoming] 2 adjacencies: (85, 46) (56, 59)
+Vertex 352
+ [outgoing] 2 adjacencies: (244, 37) (184, 36)
+ [incoming] 2 adjacencies: (184, 36) (244, 37)
+Vertex 353
+ [outgoing] 2 adjacencies: (217, 29) (325, 69)
+ [incoming] 2 adjacencies: (217, 29) (325, 69)
+Vertex 354
+ [outgoing] 3 adjacencies: (30, 24) (230, 62) (355, -1)
+ [incoming] 3 adjacencies: (230, 62) (355, -1) (30, 24)
+Vertex 355
+ [outgoing] 3 adjacencies: (139, 46) (306, 33) (354, -1)
+ [incoming] 3 adjacencies: (139, 46) (306, 33) (354, -1)
+Vertex 356
+ [outgoing] 2 adjacencies: (227, 38) (77, 57)
+ [incoming] 2 adjacencies: (77, 57) (227, 38)
+Vertex 357
+ [outgoing] 2 adjacencies: (247, 23) (278, 59)
+ [incoming] 2 adjacencies: (247, 23) (278, 59)
+Vertex 358
+ [outgoing] 2 adjacencies: (346, 33) (99, 31)
+ [incoming] 2 adjacencies: (346, 33) (99, 31)
+Vertex 359
+ [outgoing] 2 adjacencies: (321, 23) (137, 54)
+ [incoming] 2 adjacencies: (321, 23) (137, 54)
+Vertex 36
+ [outgoing] 2 adjacencies: (198, 105) (37, 39)
+ [incoming] 2 adjacencies: (259, 84) (37, 39)
+Vertex 360
+ [outgoing] 2 adjacencies: (368, 47) (80, 49)
+ [incoming] 2 adjacencies: (368, 47) (80, 49)
+Vertex 361
+ [outgoing] 2 adjacencies: (208, 42) (292, 38)
+ [incoming] 2 adjacencies: (208, 42) (292, 38)
+Vertex 362
+ [outgoing] 2 adjacencies: (56, 75) (256, 37)
+ [incoming] 2 adjacencies: (256, 37) (56, 75)
+Vertex 363
+ [outgoing] 1 adjacencies: (365, 28)
+ [incoming] 1 adjacencies: (365, 28)
+Vertex 364
+ [outgoing] 2 adjacencies: (161, 28) (365, 28)
+ [incoming] 2 adjacencies: (365, 28) (161, 28)
+Vertex 365
+ [outgoing] 2 adjacencies: (364, 28) (363, 28)
+ [incoming] 2 adjacencies: (363, 28) (364, 28)
+Vertex 366
+ [outgoing] 3 adjacencies: (302, 53) (367, -1) (204, 51)
+ [incoming] 3 adjacencies: (302, 53) (367, -1) (204, 51)
+Vertex 367
+ [outgoing] 3 adjacencies: (103, 30) (189, 49) (366, -1)
+ [incoming] 3 adjacencies: (189, 49) (103, 30) (366, -1)
+Vertex 368
+ [outgoing] 2 adjacencies: (231, 40) (360, 47)
+ [incoming] 2 adjacencies: (231, 40) (360, 47)
+Vertex 369
+ [outgoing] 2 adjacencies: (316, 27) (58, 31)
+ [incoming] 2 adjacencies: (316, 27) (58, 31)
+Vertex 37
+ [outgoing] 1 adjacencies: (36, 39)
+ [incoming] 1 adjacencies: (36, 39)
+Vertex 370
+ [outgoing] 2 adjacencies: (189, 35) (286, 35)
+ [incoming] 2 adjacencies: (286, 35) (189, 35)
+Vertex 371
+ [outgoing] 2 adjacencies: (158, 66) (156, 46)
+ [incoming] 2 adjacencies: (158, 66) (156, 46)
+Vertex 372
+ [outgoing] 2 adjacencies: (186, 33) (53, 47)
+ [incoming] 2 adjacencies: (186, 33) (53, 47)
+Vertex 373
+ [outgoing] 1 adjacencies: (196, 37)
+ [incoming] 1 adjacencies: (145, 55)
+Vertex 374
+ [outgoing] 2 adjacencies: (134, 53) (29, 46)
+ [incoming] 2 adjacencies: (29, 46) (134, 53)
+Vertex 375
+ [outgoing] 2 adjacencies: (310, 28) (165, 33)
+ [incoming] 2 adjacencies: (310, 28) (165, 33)
+Vertex 38
+ [outgoing] 2 adjacencies: (336, 35) (289, 38)
+ [incoming] 2 adjacencies: (336, 35) (289, 38)
+Vertex 39
+ [outgoing] 2 adjacencies: (267, 46) (153, 38)
+ [incoming] 2 adjacencies: (153, 38) (267, 46)
+Vertex 4
+ [outgoing] 2 adjacencies: (251, 35) (171, 43)
+ [incoming] 2 adjacencies: (251, 35) (171, 43)
+Vertex 40
+ [outgoing] 2 adjacencies: (297, 37) (17, 41)
+ [incoming] 2 adjacencies: (17, 41) (297, 37)
+Vertex 41
+ [outgoing] 2 adjacencies: (34, 57) (31, 28)
+ [incoming] 2 adjacencies: (31, 28) (34, 57)
+Vertex 42
+ [outgoing] 2 adjacencies: (190, 42) (215, 35)
+ [incoming] 2 adjacencies: (190, 42) (215, 35)
+Vertex 43
+ [outgoing] 2 adjacencies: (66, 41) (328, 57)
+ [incoming] 2 adjacencies: (328, 57) (66, 41)
+Vertex 44
+ [outgoing] 2 adjacencies: (162, 54) (250, 64)
+ [incoming] 2 adjacencies: (162, 54) (250, 64)
+Vertex 45
+ [outgoing] 2 adjacencies: (155, 35) (348, 43)
+ [incoming] 2 adjacencies: (348, 43) (155, 35)
+Vertex 46
+ [outgoing] 2 adjacencies: (329, 46) (242, 63)
+ [incoming] 2 adjacencies: (329, 46) (242, 63)
+Vertex 47
+ [outgoing] 2 adjacencies: (148, 46) (195, 41)
+ [incoming] 2 adjacencies: (195, 41) (148, 46)
+Vertex 48
+ [outgoing] 2 adjacencies: (182, 66) (318, 60)
+ [incoming] 2 adjacencies: (318, 60) (182, 66)
+Vertex 49
+ [outgoing] 2 adjacencies: (241, 40) (164, 42)
+ [incoming] 2 adjacencies: (241, 40) (164, 42)
+Vertex 5
+ [outgoing] 2 adjacencies: (239, 54) (13, 67)
+ [incoming] 2 adjacencies: (239, 54) (13, 67)
+Vertex 50
+ [outgoing] 3 adjacencies: (51, -1) (109, 62) (77, 54)
+ [incoming] 3 adjacencies: (109, 62) (51, -1) (77, 54)
+Vertex 51
+ [outgoing] 3 adjacencies: (137, 62) (202, 69) (50, -1)
+ [incoming] 3 adjacencies: (137, 62) (202, 69) (50, -1)
+Vertex 52
+ [outgoing] 1 adjacencies: (201, 20)
+ [incoming] 1 adjacencies: (198, 42)
+Vertex 53
+ [outgoing] 2 adjacencies: (372, 47) (167, 33)
+ [incoming] 2 adjacencies: (372, 47) (167, 33)
+Vertex 54
+ [outgoing] 2 adjacencies: (145, 51) (11, 41)
+ [incoming] 2 adjacencies: (145, 51) (11, 41)
+Vertex 55
+ [outgoing] 4 adjacencies: (56, -1) (57, -1) (6, 56) (127, 60)
+ [incoming] 4 adjacencies: (56, -1) (6, 56) (57, -1) (127, 60)
+Vertex 56
+ [outgoing] 4 adjacencies: (351, 59) (55, -1) (362, 75) (57, -1)
+ [incoming] 4 adjacencies: (362, 75) (57, -1) (351, 59) (55, -1)
+Vertex 57
+ [outgoing] 3 adjacencies: (56, -1) (55, -1) (150, 35)
+ [incoming] 3 adjacencies: (150, 35) (56, -1) (55, -1)
+Vertex 58
+ [outgoing] 2 adjacencies: (369, 31) (307, 31)
+ [incoming] 2 adjacencies: (307, 31) (369, 31)
+Vertex 59
+ [outgoing] 3 adjacencies: (224, 72) (162, 53) (60, -1)
+ [incoming] 3 adjacencies: (162, 53) (60, -1) (224, 72)
+Vertex 6
+ [outgoing] 2 adjacencies: (55, 56) (258, 46)
+ [incoming] 2 adjacencies: (55, 56) (258, 46)
+Vertex 60
+ [outgoing] 3 adjacencies: (133, 45) (59, -1) (299, 63)
+ [incoming] 3 adjacencies: (59, -1) (133, 45) (299, 63)
+Vertex 61
+ [outgoing] 2 adjacencies: (18, 56) (335, 28)
+ [incoming] 2 adjacencies: (335, 28) (18, 56)
+Vertex 62
+ [outgoing] 2 adjacencies: (216, 48) (287, 53)
+ [incoming] 2 adjacencies: (287, 53) (216, 48)
+Vertex 63
+ [outgoing] 2 adjacencies: (123, 44) (169, 57)
+ [incoming] 2 adjacencies: (123, 44) (169, 57)
+Vertex 64
+ [outgoing] 2 adjacencies: (192, 57) (14, 28)
+ [incoming] 2 adjacencies: (192, 57) (14, 28)
+Vertex 65
+ [outgoing] 2 adjacencies: (342, 41) (121, 57)
+ [incoming] 2 adjacencies: (121, 57) (342, 41)
+Vertex 66
+ [outgoing] 1 adjacencies: (43, 41)
+ [incoming] 1 adjacencies: (43, 41)
+Vertex 67
+ [outgoing] 6 adjacencies: (68, -1) (173, 51) (135, 87) (70, -1) (69, -1) (71, -1)
+ [incoming] 6 adjacencies: (135, 87) (70, -1) (68, -1) (173, 51) (69, -1) (71, -1)
+Vertex 68
+ [outgoing] 5 adjacencies: (69, -1) (67, -1) (136, 85) (70, -1) (71, -1)
+ [incoming] 5 adjacencies: (71, -1) (67, -1) (70, -1) (69, -1) (136, 85)
+Vertex 69
+ [outgoing] 6 adjacencies: (281, 131) (67, -1) (120, 287) (71, -1) (70, -1) (68, -1)
+ [incoming] 6 adjacencies: (68, -1) (67, -1) (120, 287) (70, -1) (281, 131) (71, -1)
+Vertex 7
+ [outgoing] 3 adjacencies: (8, -1) (290, 39) (311, 79)
+ [incoming] 3 adjacencies: (290, 39) (8, -1) (311, 79)
+Vertex 70
+ [outgoing] 6 adjacencies: (73, 45) (69, -1) (71, -1) (165, 66) (67, -1) (68, -1)
+ [incoming] 6 adjacencies: (68, -1) (69, -1) (67, -1) (71, -1) (73, 45) (165, 66)
+Vertex 71
+ [outgoing] 6 adjacencies: (68, -1) (254, 73) (255, 37) (69, -1) (70, -1) (67, -1)
+ [incoming] 6 adjacencies: (255, 37) (254, 73) (67, -1) (68, -1) (69, -1) (70, -1)
+Vertex 72
+ [outgoing] 1 adjacencies: (188, 52)
+ [incoming] 1 adjacencies: (188, 52)
+Vertex 73
+ [outgoing] 2 adjacencies: (330, 46) (70, 45)
+ [incoming] 2 adjacencies: (70, 45) (330, 46)
+Vertex 74
+ [outgoing] 2 adjacencies: (195, 44) (221, 52)
+ [incoming] 2 adjacencies: (195, 44) (221, 52)
+Vertex 75
+ [outgoing] 2 adjacencies: (142, 93) (21, 51)
+ [incoming] 2 adjacencies: (21, 51) (142, 93)
+Vertex 76
+ [outgoing] 2 adjacencies: (156, 59) (111, 30)
+ [incoming] 2 adjacencies: (156, 59) (111, 30)
+Vertex 77
+ [outgoing] 4 adjacencies: (356, 57) (79, -1) (78, -1) (50, 54)
+ [incoming] 4 adjacencies: (50, 54) (356, 57) (78, -1) (79, -1)
+Vertex 78
+ [outgoing] 4 adjacencies: (79, -1) (9, 62) (175, 41) (77, -1)
+ [incoming] 4 adjacencies: (9, 62) (79, -1) (77, -1) (175, 41)
+Vertex 79
+ [outgoing] 4 adjacencies: (78, -1) (138, 71) (77, -1) (177, 41)
+ [incoming] 4 adjacencies: (77, -1) (177, 41) (138, 71) (78, -1)
+Vertex 8
+ [outgoing] 3 adjacencies: (350, 38) (309, 58) (7, -1)
+ [incoming] 3 adjacencies: (350, 38) (7, -1) (309, 58)
+Vertex 80
+ [outgoing] 2 adjacencies: (360, 49) (274, 41)
+ [incoming] 2 adjacencies: (360, 49) (274, 41)
+Vertex 81
+ [outgoing] 2 adjacencies: (274, 43) (178, 43)
+ [incoming] 2 adjacencies: (178, 43) (274, 43)
+Vertex 82
+ [outgoing] 2 adjacencies: (277, 47) (87, 32)
+ [incoming] 2 adjacencies: (277, 47) (87, 32)
+Vertex 83
+ [outgoing] 2 adjacencies: (243, 36) (128, 49)
+ [incoming] 2 adjacencies: (243, 36) (128, 49)
+Vertex 84
+ [outgoing] 2 adjacencies: (22, 39) (24, 51)
+ [incoming] 2 adjacencies: (24, 51) (22, 39)
+Vertex 85
+ [outgoing] 2 adjacencies: (204, 47) (351, 46)
+ [incoming] 2 adjacencies: (351, 46) (204, 47)
+Vertex 86
+ [outgoing] 2 adjacencies: (21, 46) (211, 37)
+ [incoming] 2 adjacencies: (21, 46) (211, 37)
+Vertex 87
+ [outgoing] 2 adjacencies: (82, 32) (300, 43)
+ [incoming] 2 adjacencies: (300, 43) (82, 32)
+Vertex 88
+ [outgoing] 2 adjacencies: (301, 47) (181, 44)
+ [incoming] 2 adjacencies: (181, 44) (301, 47)
+Vertex 89
+ [outgoing] 1 adjacencies: (90, 29)
+ [incoming] 1 adjacencies: (90, 29)
+Vertex 9
+ [outgoing] 2 adjacencies: (78, 62) (338, 28)
+ [incoming] 2 adjacencies: (78, 62) (338, 28)
+Vertex 90
+ [outgoing] 2 adjacencies: (89, 29) (91, 26)
+ [incoming] 2 adjacencies: (89, 29) (91, 26)
+Vertex 91
+ [outgoing] 2 adjacencies: (90, 26) (185, 27)
+ [incoming] 2 adjacencies: (90, 26) (185, 27)
+Vertex 92
+ [outgoing] 1 adjacencies: (34, 37)
+ [incoming] 1 adjacencies: (280, 43)
+Vertex 93
+ [outgoing] 3 adjacencies: (19, 33) (94, -1) (97, 45)
+ [incoming] 3 adjacencies: (94, -1) (97, 45) (19, 33)
+Vertex 94
+ [outgoing] 3 adjacencies: (93, -1) (200, 27) (205, 39)
+ [incoming] 3 adjacencies: (200, 27) (205, 39) (93, -1)
+Vertex 95
+ [outgoing] 3 adjacencies: (96, -1) (292, 37) (210, 48)
+ [incoming] 3 adjacencies: (96, -1) (292, 37) (210, 48)
+Vertex 96
+ [outgoing] 3 adjacencies: (324, 52) (95, -1) (293, 42)
+ [incoming] 3 adjacencies: (324, 52) (95, -1) (293, 42)
+Vertex 97
+ [outgoing] 2 adjacencies: (23, 35) (93, 45)
+ [incoming] 2 adjacencies: (93, 45) (23, 35)
+Vertex 98
+ [outgoing] 2 adjacencies: (26, 31) (155, 69)
+ [incoming] 2 adjacencies: (26, 31) (155, 69)
+Vertex 99
+ [outgoing] 3 adjacencies: (100, -1) (349, 54) (358, 31)
+ [incoming] 3 adjacencies: (349, 54) (358, 31) (100, -1)
+
